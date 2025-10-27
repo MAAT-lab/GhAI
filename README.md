@@ -17,11 +17,11 @@ Installation instructions:
 
 API keys (instructions and guidelines) - Where to get them from.
 
-OpenAI: https://platform.openai.com/docs/quickstart
-Gemini: https://ai.google.dev/gemini-api/docs/quickstart
-Elevenlabs: https://elevenlabs.io/docs/quickstart
-DeepSeek:
-Pinecone:
+- OpenAI: https://platform.openai.com/docs/quickstart
+- Gemini: https://ai.google.dev/gemini-api/docs/quickstart
+- Elevenlabs: https://elevenlabs.io/docs/quickstart
+- DeepSeek:
+- Pinecone:
 
 
 
